@@ -1,0 +1,12 @@
+/** Add css rules here for your application. */
+
+
+.border{
+	border; 6px solid black;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+		
+}
